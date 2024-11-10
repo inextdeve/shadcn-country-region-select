@@ -39,7 +39,7 @@ function CountryRegion() {
 
 | Prop            | Type                  | Description                                           |
 | --------------- | --------------------- | ----------------------------------------------------- |
-| className       | <code>object</code>   | caccept a class string                                |
+| className       | <code>object</code>   | accept a class string                                |
 | onChange        | <code>func</code>     | callback function fired when the select value changed |
 | placeholder     | <code>string</code>   | placeholder value, default "Country"                  |
 | priorityOptions | <code>string[]</code> | Array of countries prioritized in the select list     |
